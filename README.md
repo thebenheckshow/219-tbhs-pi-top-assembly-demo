@@ -4,6 +4,6 @@ In this episode Ben and Felix assemble the Pi-Top (a Raspberry Pi laptop you bui
 
 Watch the episode: http://www.element14.com/community/docs/DOC-80208/l/episode-219-ben-hecks-pi-top-assembly-demo-episode?ICID=benheck-episodes-list
 
-Join the element14 community - http://bit.ly/1OfyCEI
+Join the element14 community - http://www.element14.com/tbhs
 
 THIS THING IS AWESOME!!!!
